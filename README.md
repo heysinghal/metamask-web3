@@ -1,4 +1,5 @@
 # Metamaskweb
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6061121d-e846-49b2-8d44-89523100b294/deploy-status)](https://app.netlify.com/sites/cocky-archimedes-b81799/deploys)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.3.
 
